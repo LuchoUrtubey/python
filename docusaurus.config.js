@@ -17,7 +17,7 @@ const config = {
   baseUrl: '/python/',
   organizationName: 'LuchoUrtubey',
   projectName: 'python',
-  trailingSlash: false,   // para github pages
+  trailingSlash: true,   // para github pages
   onBrokenLinks: 'warn',
 
   i18n: {
