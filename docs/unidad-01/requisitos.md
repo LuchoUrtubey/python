@@ -59,7 +59,7 @@ La solución es sencilla:
 1. Volver a ejecutar el instalador (NO necesitas eliminar nada)
 2. Clickear en **Modify**
 3. Las primeras opciones tildalas y dale a next
-4. Entre las siguientes opciones estará a**add to path**, márcala!
+4. Entre las siguientes opciones estará **add to path**, márcala!
 :::
 
 </TabItem>
@@ -93,6 +93,8 @@ Probablemente ya venga instalado Python en tu linux, puedes corroborarlo así:
 2. Si no está instalado puedes instalarlo desde la terminal con install python3 según tu distro.
 </TabItem>
 </Tabs>
+
+---
 
 ## IDE (Entorno de Desarrollo Integrado)
 

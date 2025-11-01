@@ -19,7 +19,7 @@ Si quieres tener el mismo theme que yo (opcional):
 
 Con esto tenemos más que suficiente para empezar a trabajar!
 
-## Prueba de Intalación Final
+## Prueba de Instalación Final
 
 Si todos los pasos fueron correctos entonces ahora dentro de Visual Studio Code abre la Terminal
 (Terminal > New Terminal) 
